@@ -1,0 +1,13 @@
+.quantityPicker{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quantityPicker button{
+    display: inline-block;
+    min-width: 2vw;
+    min-height: 2vh;
+    border: solid 2px black;
+    border-radius: 0.5rem;
+}

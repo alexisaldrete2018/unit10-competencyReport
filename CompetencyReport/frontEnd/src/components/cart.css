@@ -1,0 +1,16 @@
+.cart-page{
+    background-color: lightgray;
+    padding: 3rem;
+}
+
+.cart .parent{
+    display: flex;
+}
+
+.cart .cart-list{
+    flex: 2;
+}
+
+.cart .total-panel{
+    flex: 1;
+}

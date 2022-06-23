@@ -1,0 +1,12 @@
+.catalog h2{
+    color:  #334f60;
+    padding-top: 20px;
+    margin-bottom: 5px;
+}
+
+.catalog h3{
+    color: #676767;
+    font-size: 22px;
+    margin-top:  0;
+    margin-bottom: 20px;
+}

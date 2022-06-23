@@ -1,0 +1,48 @@
+.product{
+    display: inline-block;
+    min-width: 20vw;
+    min-height: 30vh;
+    background-color: #3D5A6C;
+    border: solid 3px black;
+    border-radius: 1rem;
+    margin: 1%;
+    box-sizing: border-box;
+    padding: 1%;
+    box-sizing: border-box;
+    color: white;
+}
+
+.productCounterContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+
+.product img{
+    box-sizing: border-box;
+    height: 30vh;
+    border-radius: 1rem;
+    border: solid 3px black;
+}
+
+.product label{
+    margin: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    display: block;
+}
+
+.addButton{
+    display: inline-block;
+    min-width: 5vw;
+    min-height: 3vh;
+    border: solid 3px black;
+    border-radius: 0.5rem;
+    margin: 2%;
+}
